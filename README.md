@@ -10,6 +10,5 @@ Olá sou a Bianca
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/biancafernandesroberto/)
 
 
-<img  width="69%"  src="https://github-readme-stats.vercel.app/api?username=Biancafernandesroberto&show_icons=true&theme=radical">
 
 
